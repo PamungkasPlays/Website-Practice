@@ -10,16 +10,21 @@ body{
     width: 250px;
 }
 
-.text-contain{
+.judul{
     position: absolute;
-    top: 35% ;
-    left: 10% ;
-    height: 500px ;
-    width: 250px;
-    border: honeydew;
-    fill: honeydew;
+    top: 20% ;
+    left: 7.3% ;
+    height: 100px;
+    width: 100px;
 }
 
+.text-contain{
+    position: absolute;
+    top: 26.3% ;
+    left: 0.697% ;
+    height: 500px ;
+    width: 250px;
+}
 
 .container {
     position: absolute;
