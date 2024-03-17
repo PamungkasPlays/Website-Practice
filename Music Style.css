@@ -43,3 +43,30 @@ body{
     height: 175px;
    
 }
+
+.icon-wiki{
+    position:absolute;
+    top: 98%;
+    left: 50%;
+    right: 50%;
+    width: 50px;
+    height: 50px;
+}
+
+.icon-YT{
+    position: absolute;
+    top: 98%;
+    left: 45%;
+    right: 55%;
+    width: 50px;
+    height: 50px;
+}
+
+.icon-spotify{
+    position: absolute;
+    top: 98%;
+    left: 55%;
+    right: 45%;
+    width: 50px;
+    height: 50px;   
+}
